@@ -28,10 +28,6 @@ export function Button({
   duration?: number;
   className?: string;
 } & ButtonHTMLAttributes<HTMLButtonElement>) { // Added button attributes
-    function calc($: any, arg1: number): import("csstype").Property.BorderRadius<string | number> | undefined {
-        throw new Error("Function not implemented.");
-    }
-
   return (
     <Component
       className={cn(
