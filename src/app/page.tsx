@@ -2,6 +2,7 @@ import FeaturedCourses from '@/components/FeaturedCourses'
 import FeaturedWebinars from '@/components/FeaturedWebinars'
 import HeroSection from '@/components/HeroSection'
 
+
 import Navbar from '@/components/Navbar'
 import TestiMonialCard from '@/components/TestiMovingCard'
 import WhyChooseUs from '@/components/WhyChooseUs'
